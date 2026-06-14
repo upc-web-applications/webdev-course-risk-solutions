@@ -22,19 +22,67 @@ LINK:
 
 # Secuencia de Lecciones
 
-## Leccion 1
+## Leccion 1: Introduccion al desarrollo web (¿Que es un sitio web?)
 
+- **Encargado:** Flores Eusebio, Angel Thyago
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
+
+---
 ## Leccion 2
 
+- **Encargado:** Aponte Pablo, Isabel Luisa
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
+
+---
 ## Leccion 3
 
+- **Encargado:** Aponte Pablo, Isabel Luisa
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
+
+---
 ## Leccion 4
 
+- **Encargado:** Laura Acosta, Victor Jhosuef
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
+
+---
 ## Leccion 5
 
+- **Encargado:** Laura Acosta, Victor Jhosuef
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
+
+---
 ## Leccion 6
 
+- **Encargado:** Blancas Chávez, Carlos Franco
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
+
+---
 ## Leccion 7
+
+- **Encargado:** Flores Eusebio, Angel Thyago
+- **Descripcion:** [DESCRIPCION]
+- **Video:** [LINK]
+- **Conclusiones:**
+  - [CONCLUSIONES]
 
 ---
 
@@ -62,16 +110,15 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 **NRC:** 12190
 **Periodo:** 2026-01
 
-**Nombre del equipo:** 
+**Nombre del equipo:** RiskGuard Solutions
 **Integrantes del equipo:**
 
 | N°  | Nombres y Apellidos               |   Código   |
 | :-: | --------------------------------- | :--------: |
 |  1  | Flores Eusebio, Angel Thyago      | U20231B781 |
-|  2  | |  |
-|  3  | |  |
-|  4  | |  |
-|  5  | |  |
+|  2  | Aponte Pablo, Isabel Luisa        | U20241E158 |
+|  3  | Blancas Chávez, Carlos Franco     | U20241A322 |
+|  4  | Laura Acosta, Victor Jhosuef      | U202418655 |
 
 
 
