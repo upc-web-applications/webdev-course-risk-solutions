@@ -16,7 +16,7 @@ El contenido de este curso esta diseñado para ser sencillo, interactivo y pract
 
 En este repositorio encontraras los codigos de ejemplo empleados durante la elaboracion de este curso.
 
-LINK: 
+LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 ---
 
