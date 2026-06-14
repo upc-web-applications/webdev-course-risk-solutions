@@ -31,7 +31,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 2
+## Leccion 2: Estructura HTML Basica
 
 - **Encargado:** Aponte Pablo, Isabel Luisa
 - **Descripcion:** [DESCRIPCION]
@@ -40,7 +40,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 3
+## Leccion 3: Elementos HTML Comunes
 
 - **Encargado:** Aponte Pablo, Isabel Luisa
 - **Descripcion:** [DESCRIPCION]
@@ -49,7 +49,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 4
+## Leccion 4: Introduccion a CSS
 
 - **Encargado:** Laura Acosta, Victor Jhosuef
 - **Descripcion:** [DESCRIPCION]
@@ -58,7 +58,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 5
+## Leccion 5: Estilo Simple
 
 - **Encargado:** Laura Acosta, Victor Jhosuef
 - **Descripcion:** [DESCRIPCION]
@@ -67,7 +67,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 6
+## Leccion 6: Creacion de una Pagina Web Basica
 
 - **Encargado:** Blancas Chávez, Carlos Franco
 - **Descripcion:** [DESCRIPCION]
@@ -76,7 +76,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 7
+## Leccion 7: Recomendaciones y Errores Comunes para Principiantes
 
 - **Encargado:** Flores Eusebio, Angel Thyago
 - **Descripcion:** [DESCRIPCION]
