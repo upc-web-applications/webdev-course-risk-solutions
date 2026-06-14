@@ -103,14 +103,17 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 ---
 
 # Elaboracion
-**Universidad Peruana de Ciencias Aplicadas**
 
-**Carrera:** Ingenieria de Software
-**Curso:** Aplicaciones Web
-**NRC:** 12190
+**Universidad Peruana de Ciencias Aplicadas**<br/>
+
+
+**Carrera:** Ingenieria de Software<br/>
+**Curso:** Aplicaciones Web<br/>
+**NRC:** 12190<br/>
 **Periodo:** 2026-01
 
-**Nombre del equipo:** RiskGuard Solutions
+**Nombre del equipo:** RiskGuard Solutions<br/>
+
 **Integrantes del equipo:**
 
 | N°  | Nombres y Apellidos               |   Código   |
