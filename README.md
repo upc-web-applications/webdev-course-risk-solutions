@@ -67,13 +67,15 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 6: Creacion de una Pagina Web Basica
+## Lección 6: Creación de una Página Web Básica
 
-- **Encargado:** Blancas Chávez, Carlos Franco
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
-- **Conclusiones:**
-  - [CONCLUSIONES]
+* **Encargado:** Blancas Chávez, Carlos Franco
+* **Descripción:** En esta lección los estudiantes aprenderán a construir una página web de perfil personal completa desde cero, combinando todos los conceptos de HTML y CSS vistos en las lecciones anteriores. Usando CodePen como editor en línea, sin instalar nada, se construirá paso a paso una página con encabezado, foto de perfil, secciones de información, listas, enlaces y pie de página, aplicando estilos como colores, bordes redondeados, sombras y centrado de contenido
+* **Video:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=Zw9VS9ICY0g)
+* **Conclusiones:**
+   * Al combinar HTML y CSS en un proyecto real, los estudiantes comprenden cómo cada elemento aprendido tiene un propósito concreto dentro de una página web funcional
+   * El uso de CodePen permite a estudiantes sin experiencia previa ver los resultados en tiempo real, reduciendo la frustración y aumentando la motivación para seguir aprendiendo
+   * Crear una página de perfil personalizada demuestra que con conocimientos básicos de HTML y CSS es posible construir productos digitales reales desde el primer día
 
 ---
 ## Leccion 7: Recomendaciones y Errores Comunes para Principiantes
