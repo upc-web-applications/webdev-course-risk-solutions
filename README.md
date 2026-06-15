@@ -76,17 +76,15 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 ---
 
-## Lección 5: Crear una página web sencilla
+## Lección 5 (~10 min) Estilo simple
 
 - **Encargado:** Laura Acosta, Victor Jhosef
-- **Descripción:** Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace:** [Ver la lección](https://youtu.be/7tgm0ZEbKZo)
-- **Consejos clave:** Aplicar estilos y depurar errores.
-- **Proyecto Final:** [Crea tu Perfil](https://onlinegdb.com/RrqqNOQ-M) 👈
+- **Descripción:** Aprende a centrar contenido, añadir colores y bordes con CSS.
+- **Enlace:** [LINK]
+- **Consejos clave:** Centrar contenido, añadir colores, añadir bordes.
+- **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
-  - La combinación de HTML y CSS en un proyecto real permite comprender cómo cada elemento aprendido cumple un propósito dentro de una página web funcional.
-  - La práctica de depurar errores al integrar estructura y estilo desarrolla habilidades fundamentales para el desarrollo web.
-  - Crear una página de perfil personalizada demuestra que con conocimientos básicos es posible construir productos digitales desde el primer día.
+  - [CONCLUSIONES]
 
 ---
 
@@ -141,7 +139,7 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 | 2 |  |  | 
 | 3 |  | | 
 | 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
-| 5 | Crear una página web sencilla - Laura Acosta, Victor Jhosef | [Replit](https://onlinegdb.com/RrqqNOQ-M) | 
+| 5 | Estilo simple - Laura Acosta, Victor Jhosef | | 
 | 6 |  |  | 
 | 7 |  |  | 
 
