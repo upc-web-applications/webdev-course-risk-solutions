@@ -96,8 +96,8 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 - **Encargado:** Blancas Chávez, Carlos Franco
 - **Descripción:** En esta lección los estudiantes aprenderán a construir una página web de perfil personal completa desde cero, combinando todos los conceptos de HTML y CSS vistos en las lecciones anteriores. Usando CodePen como editor en línea, sin instalar nada, se construirá paso a paso una página con encabezado, foto de perfil, secciones de información, listas, enlaces y pie de página, aplicando estilos como colores, bordes redondeados, sombras y centrado de contenido
 - **Enlace:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=Zw9VS9ICY0g)
-- **Consejos clave:** [CONSEJOS CLAVE]
-- **Proyecto Final:** [PROYECTO FINAL]
+- **Consejos clave:** [] 
+- **Proyecto Final:** [Ver pagina web](https://codepen.io/CarlosBlancas969/pen/ogBzrOj)
 - **Conclusiones:**
   - Al combinar HTML y CSS en un proyecto real, los estudiantes comprenden cómo cada elemento aprendido tiene un propósito concreto dentro de una página web funcional
   - El uso de CodePen permite a estudiantes sin experiencia previa ver los resultados en tiempo real, reduciendo la frustración y aumentando la motivación para seguir aprendiendo
