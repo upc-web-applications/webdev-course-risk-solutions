@@ -53,22 +53,20 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
   - [CONCLUSIONES]
 
 ---
-## Leccion 4: Introduccion a CSS
-
-- **Encargado:** Laura Acosta, Victor Jhosuef
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
-- **Conclusiones:**
-  - [CONCLUSIONES]
+### Lección 4: Introducción a CSS 
+- **Encargado:** Laura Acosta, Victor Jhosef
+- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+- **Enlace**: [Ver la lección](https://youtu.be/L7Ol-ZVWvQc)
+- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
+- **Práctica**: [Aplicar estilo con un clic](https://www.onlinegdb.com/voYJFjYCm) 👈
 
 ---
-## Leccion 5: Estilo Simple
-
-- **Encargado:** Laura Acosta, Victor Jhosuef
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
-- **Conclusiones:**
-  - [CONCLUSIONES]
+### Lección 5: Crear una página web sencilla 
+- **Encargado:** Laura Acosta, Victor Jhosef
+- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
+- **Enlace**: [Ver la lección](https://youtu.be/7tgm0ZEbKZo)
+- **Consejos clave**: Aplicar estilos y depurar errores.
+- **Proyecto Final**: [Crea tu Perfil](https://onlinegdb.com/RrqqNOQ-M) 👈 
 
 ---
 ## Lección 6: Creación de una Página Web Básica
