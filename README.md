@@ -40,13 +40,16 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 ## Lección 2: Estructura HTML Básica
 
-- **Encargado:** Aponte Pablo, Isabel Luisa
-- **Descripción:** [DESCRIPCION]
-- **Enlace:** [LINK]
-- **Consejos clave:** [CONSEJOS CLAVE]
-- **Proyecto Final:** [PROYECTO FINAL]
-- **Conclusiones:**
-  - [CONCLUSIONES]
+* **Encargado:** Aponte Pablo, Isabel Luisa
+* **Descripción:** Aprende los conceptos básicos de HTML: etiquetas, elementos, atributos y la estructura fundamental de una página web.
+* **Enlace:** [Ver la lección](https://youtu.be/tmUsiPrh1Dc)
+* **Consejos clave:** Usar etiquetas correctamente, cerrar en orden y mantener una buena indentación.
+* **Proyecto Final:** [Crear una página HTML básica](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) 👈
+* **Conclusiones:**
+  * HTML permite estructurar el contenido de una página web mediante etiquetas y elementos.
+  * Los atributos proporcionan información adicional y son esenciales para elementos como enlaces e imágenes.
+  * Comprender la estructura básica de un documento HTML es el primer paso para desarrollar sitios web.
+
 
 ---
 
