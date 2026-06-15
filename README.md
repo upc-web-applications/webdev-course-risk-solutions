@@ -27,10 +27,12 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 ## Leccion 1: Introduccion al desarrollo web (¿Que es un sitio web?)
 
 - **Encargado:** Flores Eusebio, Angel Thyago
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
+- **Descripcion:** En esta lección se explica qué es un sitio web y cómo se construye de manera básica usando HTML y CSS. Además, se presenta CodePen como una herramienta online que permite practicar desarrollo web desde el navegador, sin necesidad de instalar programas adicionales.
+- **Video:** [Ver Lección 1 en YouTube](https://youtu.be/Ex3LvYuQB50)
 - **Conclusiones:**
-  - [CONCLUSIONES]
+  - Un sitio web está formado por elementos que organizan información y permiten mostrar contenido en internet.
+  - HTML se encarga de la estructura de la página, mientras que CSS permite mejorar su diseño visual.
+  - CodePen facilita el aprendizaje porque permite escribir código y ver los resultados de forma inmediata.
 
 ---
 ## Leccion 2: Estructura HTML Basica
