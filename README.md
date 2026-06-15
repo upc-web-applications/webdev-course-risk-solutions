@@ -24,67 +24,93 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 # Secuencia de la Leccion
 
-## Leccion 1: Introduccion al desarrollo web (¿Que es un sitio web?)
+## Lección 1: Introducción al desarrollo web (¿Qué es un sitio web?)
 
 - **Encargado:** Flores Eusebio, Angel Thyago
-- **Descripcion:** En esta lección se explica qué es un sitio web y cómo se construye de manera básica usando HTML y CSS. Además, se presenta CodePen como una herramienta online que permite practicar desarrollo web desde el navegador, sin necesidad de instalar programas adicionales.
-- **Video:** [Ver Lección 1 en YouTube](https://youtu.be/Ex3LvYuQB50)
+- **Descripción:** En esta lección se explica qué es un sitio web y cómo se construye de manera básica usando HTML y CSS. Además, se presenta CodePen como una herramienta online que permite practicar desarrollo web desde el navegador, sin necesidad de instalar programas adicionales.
+- **Enlace:** [Ver Lección 1 en YouTube](https://youtu.be/Ex3LvYuQB50)
+- **Consejos clave:** [CONSEJOS CLAVE]
+- **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
   - Un sitio web está formado por elementos que organizan información y permiten mostrar contenido en internet.
   - HTML se encarga de la estructura de la página, mientras que CSS permite mejorar su diseño visual.
   - CodePen facilita el aprendizaje porque permite escribir código y ver los resultados de forma inmediata.
 
 ---
-## Leccion 2: Estructura HTML Basica
+
+## Lección 2: Estructura HTML Básica
 
 - **Encargado:** Aponte Pablo, Isabel Luisa
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
+- **Descripción:** [DESCRIPCION]
+- **Enlace:** [LINK]
+- **Consejos clave:** [CONSEJOS CLAVE]
+- **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
   - [CONCLUSIONES]
 
 ---
-## Leccion 3: Elementos HTML Comunes
+
+## Lección 3: Elementos HTML Comunes
 
 - **Encargado:** Aponte Pablo, Isabel Luisa
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
+- **Descripción:** [DESCRIPCION]
+- **Enlace:** [LINK]
+- **Consejos clave:** [CONSEJOS CLAVE]
+- **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
   - [CONCLUSIONES]
 
 ---
-### Lección 4: Introducción a CSS 
+
+## Lección 4: Introducción a CSS
+
 - **Encargado:** Laura Acosta, Victor Jhosef
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://youtu.be/L7Ol-ZVWvQc)
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://www.onlinegdb.com/voYJFjYCm) 👈
+- **Descripción:** Dale estilo a tu HTML con colores, fuentes y diseños.
+- **Enlace:** [Ver la lección](https://youtu.be/L7Ol-ZVWvQc)
+- **Consejos clave:** Vincular CSS, usar selectores como `body { background-color: blue; }`.
+- **Proyecto Final:** [Aplicar estilo con un clic](https://www.onlinegdb.com/voYJFjYCm) 👈
+- **Conclusiones:**
+  - CSS permite transformar la apariencia de una página web al añadir colores, fuentes y diseños que mejoran la experiencia visual del usuario.
+  - Vincular correctamente el archivo CSS al documento HTML es fundamental para que los estilos se apliquen de forma adecuada.
+  - El uso de selectores básicos permite controlar el estilo de elementos específicos de manera sencilla y eficiente.
 
 ---
-### Lección 5: Crear una página web sencilla 
+
+## Lección 5: Crear una página web sencilla
+
 - **Encargado:** Laura Acosta, Victor Jhosef
-- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://youtu.be/7tgm0ZEbKZo)
-- **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://onlinegdb.com/RrqqNOQ-M) 👈 
+- **Descripción:** Combinar HTML y CSS para crear una página de perfil personal.
+- **Enlace:** [Ver la lección](https://youtu.be/7tgm0ZEbKZo)
+- **Consejos clave:** Aplicar estilos y depurar errores.
+- **Proyecto Final:** [Crea tu Perfil](https://onlinegdb.com/RrqqNOQ-M) 👈
+- **Conclusiones:**
+  - La combinación de HTML y CSS en un proyecto real permite comprender cómo cada elemento aprendido cumple un propósito dentro de una página web funcional.
+  - La práctica de depurar errores al integrar estructura y estilo desarrolla habilidades fundamentales para el desarrollo web.
+  - Crear una página de perfil personalizada demuestra que con conocimientos básicos es posible construir productos digitales desde el primer día.
 
 ---
+
 ## Lección 6: Creación de una Página Web Básica
 
-* **Encargado:** Blancas Chávez, Carlos Franco
-* **Descripción:** En esta lección los estudiantes aprenderán a construir una página web de perfil personal completa desde cero, combinando todos los conceptos de HTML y CSS vistos en las lecciones anteriores. Usando CodePen como editor en línea, sin instalar nada, se construirá paso a paso una página con encabezado, foto de perfil, secciones de información, listas, enlaces y pie de página, aplicando estilos como colores, bordes redondeados, sombras y centrado de contenido
-* **Video:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=Zw9VS9ICY0g)
-* **Conclusiones:**
-   * Al combinar HTML y CSS en un proyecto real, los estudiantes comprenden cómo cada elemento aprendido tiene un propósito concreto dentro de una página web funcional
-   * El uso de CodePen permite a estudiantes sin experiencia previa ver los resultados en tiempo real, reduciendo la frustración y aumentando la motivación para seguir aprendiendo
-   * Crear una página de perfil personalizada demuestra que con conocimientos básicos de HTML y CSS es posible construir productos digitales reales desde el primer día
+- **Encargado:** Blancas Chávez, Carlos Franco
+- **Descripción:** En esta lección los estudiantes aprenderán a construir una página web de perfil personal completa desde cero, combinando todos los conceptos de HTML y CSS vistos en las lecciones anteriores. Usando CodePen como editor en línea, sin instalar nada, se construirá paso a paso una página con encabezado, foto de perfil, secciones de información, listas, enlaces y pie de página, aplicando estilos como colores, bordes redondeados, sombras y centrado de contenido
+- **Enlace:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=Zw9VS9ICY0g)
+- **Consejos clave:** [CONSEJOS CLAVE]
+- **Proyecto Final:** [PROYECTO FINAL]
+- **Conclusiones:**
+  - Al combinar HTML y CSS en un proyecto real, los estudiantes comprenden cómo cada elemento aprendido tiene un propósito concreto dentro de una página web funcional
+  - El uso de CodePen permite a estudiantes sin experiencia previa ver los resultados en tiempo real, reduciendo la frustración y aumentando la motivación para seguir aprendiendo
+  - Crear una página de perfil personalizada demuestra que con conocimientos básicos de HTML y CSS es posible construir productos digitales reales desde el primer día
 
 ---
-## Leccion 7: Recomendaciones y Errores Comunes para Principiantes
+
+## Lección 7: Recomendaciones y Errores Comunes para Principiantes
 
 - **Encargado:** Flores Eusebio, Angel Thyago
-- **Descripcion:** [DESCRIPCION]
-- **Video:** [LINK]
+- **Descripción:** [DESCRIPCION]
+- **Enlace:** [LINK]
+- **Consejos clave:** [CONSEJOS CLAVE]
+- **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
   - [CONCLUSIONES]
 
@@ -114,8 +140,8 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 | 1 |  |  | 
 | 2 |  |  | 
 | 3 |  | | 
-| 4 |  |  | 
-| 5 |  |  | 
+| 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
+| 5 | Crear una página web sencilla - Laura Acosta, Victor Jhosef | [Replit](https://onlinegdb.com/RrqqNOQ-M) | 
 | 6 |  |  | 
 | 7 |  |  | 
 
