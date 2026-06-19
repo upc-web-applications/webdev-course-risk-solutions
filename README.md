@@ -42,9 +42,9 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 * **Encargado:** Aponte Pablo, Isabel Luisa
 * **Descripción:** Aprende los conceptos básicos de HTML: etiquetas, elementos, atributos y la estructura fundamental de una página web.
-* **Enlace:** [Ver la lección](https://youtu.be/tmUsiPrh1Dc)
-* **Consejos clave:** Usar etiquetas correctamente, cerrar en orden y mantener una buena indentación.
-* **Proyecto Final:** [Crear una página HTML básica](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) 👈
+* **Enlace:** [Ver la lección](https://youtu.be/rm2RO2Qu0gM)
+* * **Consejos clave:** Usar etiquetas correctamente, cerrar en orden y mantener una buena indentación.
+* **Proyecto Final:** [Crear una página HTML básica](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) 
 * **Conclusiones:**
   * HTML permite estructurar el contenido de una página web mediante etiquetas y elementos.
   * Los atributos proporcionan información adicional y son esenciales para elementos como enlaces e imágenes.
@@ -55,13 +55,15 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 ## Lección 3: Elementos HTML Comunes
 
-- **Encargado:** Aponte Pablo, Isabel Luisa
-- **Descripción:** [DESCRIPCION]
-- **Enlace:** [LINK]
-- **Consejos clave:** [CONSEJOS CLAVE]
-- **Proyecto Final:** [PROYECTO FINAL]
-- **Conclusiones:**
-  - [CONCLUSIONES]
+* **Encargado:** Aponte Pablo, Isabel Luisa
+* **Descripción:** Aprende a usar los elementos HTML más comunes: encabezados, párrafos con formato, listas ordenadas y desordenadas, enlaces mejorados e imágenes con tamaño controlado.
+* **Enlace:** [Ver la lección](https://youtu.be/9AGt2lHKEZY)
+* **Consejos clave:** Usar `<ul>` cuando el orden no importa y `<ol>` cuando sí, combinar elementos mediante anidamiento y aplicar `target="_blank"` en enlaces externos.
+* **Proyecto Final:** [Crear una página con elementos HTML comunes](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019eca01-99a5-74e3-a165-a0512b7958f9)
+* **Conclusiones:**
+  * Los encabezados `<h1>` a `<h6>` establecen la jerarquía y semántica del contenido de una página.
+  * Las listas `<ul>` y `<ol>` permiten organizar información de forma clara, y pueden anidarse para mostrar sub-categorías.
+  * Combinar elementos como `<a>` con `<img>` permite crear imágenes clickeables, un patrón muy usado en el desarrollo web.
 
 ---
 
@@ -71,7 +73,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 - **Descripción:** Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace:** [Ver la lección](https://youtu.be/L7Ol-ZVWvQc)
 - **Consejos clave:** Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Proyecto Final:** [Aplicar estilo con un clic](https://www.onlinegdb.com/voYJFjYCm) 👈
+- **Proyecto Final:** [Aplicar estilo con un clic](https://www.onlinegdb.com/voYJFjYCm) 
 - **Conclusiones:**
   - CSS permite transformar la apariencia de una página web al añadir colores, fuentes y diseños que mejoran la experiencia visual del usuario.
   - Vincular correctamente el archivo CSS al documento HTML es fundamental para que los estilos se apliquen de forma adecuada.
@@ -139,12 +141,12 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
 | 1 |  |  | 
-| 2 |  |  | 
-| 3 |  | | 
+| 2 | Estructura HTML Básica - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) | 
+| 3 | Elementos HTML Comunes - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019eca01-99a5-74e3-a165-a0512b7958f9) | 
 | 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
 | 5 | Estilo simple - Laura Acosta, Victor Jhosef | | 
 | 6 |  |  | 
-| 7 |  |  | 
+| 7 |  |  |
 
 ---
 
