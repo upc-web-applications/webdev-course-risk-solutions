@@ -140,13 +140,13 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 |  |  | 
+| 1 | Introduccion al Desarrollo Web - Flores Eusebio, Angel Thyago | [CodePen](https://codepen.io/editor/Angel-Flores-the-builder/pen/019ec870-68e2-7b26-807f-2aeb2c294946) | 
 | 2 | Estructura HTML Básica - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) | 
 | 3 | Elementos HTML Comunes - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019eca01-99a5-74e3-a165-a0512b7958f9) | 
 | 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
 | 5 | Estilo simple - Laura Acosta, Victor Jhosef | | 
 | 6 | Creacion de una pagina web Basica - Blancas Chávez, Carlos Franco |[CodePen](https://codepen.io/CarlosBlancas969/pen/ogBzrOj)  | 
-| 7 |  |  |
+| 7 | Recomendaciones y Errores comunes para principiantes - Flores Eusebio, Angel Thyago |  |
 
 ---
 
