@@ -29,7 +29,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 - **Encargado:** Flores Eusebio, Angel Thyago
 - **Descripción:** En esta lección se explica qué es un sitio web y cómo se construye de manera básica usando HTML y CSS. Además, se presenta CodePen como una herramienta online que permite practicar desarrollo web desde el navegador, sin necesidad de instalar programas adicionales.
 - **Enlace:** [Ver Lección 1 en YouTube](https://youtu.be/Ex3LvYuQB50)
-- **Consejos clave:** [CONSEJOS CLAVE]
+- **Consejos clave:** HTML define la estructura del sitio web y CSS mejora su apariencia visual.
 - **Proyecto Final:** [Introduccion al desarrollo web](https://codepen.io/editor/Angel-Flores-the-builder/pen/019ec870-68e2-7b26-807f-2aeb2c294946)
 - **Conclusiones:**
   - Un sitio web está formado por elementos que organizan información y permiten mostrar contenido en internet.
