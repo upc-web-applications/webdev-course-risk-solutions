@@ -111,7 +111,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 - **Encargado:** Flores Eusebio, Angel Thyago
 - **Descripción:** [DESCRIPCION]
-- **Enlace:** [LINK]
+- **Enlace:** [Ver Leccion 7 en Youtube](https://youtu.be/4WtAN-Gq0YQ)
 - **Consejos clave:** [CONSEJOS CLAVE]
 - **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
