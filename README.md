@@ -110,12 +110,14 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 ## Lección 7: Recomendaciones y Errores Comunes para Principiantes
 
 - **Encargado:** Flores Eusebio, Angel Thyago
-- **Descripción:** [DESCRIPCION]
+- **Descripción:** En esta lección se presentan buenas prácticas y errores comunes al comenzar con HTML y CSS. Se explica la importancia de ordenar el código, usar nombres claros, cerrar correctamente las etiquetas y probar los cambios poco a poco en CodePen.
 - **Enlace:** [Ver Leccion 7 en Youtube](https://youtu.be/4WtAN-Gq0YQ)
-- **Consejos clave:** [CONSEJOS CLAVE]
+- **Consejos clave:** Es importante escribir código ordenado, usar nombres de clases claros y revisar los errores paso a paso. En HTML y CSS, practicar y corregir errores es parte del aprendizaje.
 - **Proyecto Final:** [PROYECTO FINAL]
 - **Conclusiones:**
-  - [CONCLUSIONES]
+  - Los estudiantes comprenden que escribir código ordenado facilita la lectura, corrección y mantenimiento de una página web.
+  - Se identifican errores comunes como olvidar cerrar etiquetas, escribir mal propiedades CSS o usar clases de forma incorrecta.
+  - La práctica constante permite mejorar la comprensión de HTML y CSS, así como desarrollar mejores hábitos al programar.
 
 ---
 
