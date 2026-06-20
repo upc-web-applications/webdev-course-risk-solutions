@@ -113,7 +113,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 - **Descripción:** En esta lección se presentan buenas prácticas y errores comunes al comenzar con HTML y CSS. Se explica la importancia de ordenar el código, usar nombres claros, cerrar correctamente las etiquetas y probar los cambios poco a poco en CodePen.
 - **Enlace:** [Ver Leccion 7 en Youtube](https://youtu.be/4WtAN-Gq0YQ)
 - **Consejos clave:** Es importante escribir código ordenado, usar nombres de clases claros y revisar los errores paso a paso. En HTML y CSS, practicar y corregir errores es parte del aprendizaje.
-- **Proyecto Final:** [PROYECTO FINAL]
+- **Proyecto Final:** [Recomendaciones y errores comunes](https://codepen.io/editor/Angel-Flores-the-builder/pen/019ee253-d125-7dd7-95c7-641803102315)
 - **Conclusiones:**
   - Los estudiantes comprenden que escribir código ordenado facilita la lectura, corrección y mantenimiento de una página web.
   - Se identifican errores comunes como olvidar cerrar etiquetas, escribir mal propiedades CSS o usar clases de forma incorrecta.
