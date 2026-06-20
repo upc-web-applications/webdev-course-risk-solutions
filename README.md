@@ -85,11 +85,13 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 - **Encargado:** Laura Acosta, Victor Jhosef
 - **Descripción:** Aprende a centrar contenido, añadir colores y bordes con CSS.
-- **Enlace:** [LINK]
+- **Enlace:** [Ver Lección 5 en YouTube](https://youtu.be/q_jL8MLOGz0)
 - **Consejos clave:** Centrar contenido, añadir colores, añadir bordes.
-- **Proyecto Final:** [PROYECTO FINAL]
+- **Proyecto Final:** [Aplicar estilo simple](https://www.onlinegdb.com/HG90o6uJ5)
 - **Conclusiones:**
-  - [CONCLUSIONES]
+  - Centrar elementos con CSS permite crear diseños ordenados y profesionales sin necesidad de herramientas complejas.
+  - La combinación de colores de fondo, bordes y bordes redondeados transforma elementos HTML simples en tarjetas visualmente atractivas.
+  - El uso de clases CSS reutilizables como `.tarjeta` facilita aplicar estilos consistentes y mantener el código organizado.
 
 ---
 
@@ -157,7 +159,7 @@ Al finalizar el proyecto, el estudiante habrá creado una página web sencilla, 
 | 2 | Estructura HTML Básica - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) | 
 | 3 | Elementos HTML Comunes - Aponte Pablo, Isabel Luisa | [CodePen](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019eca01-99a5-74e3-a165-a0512b7958f9) | 
 | 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
-| 5 | Estilo simple - Laura Acosta, Victor Jhosef | | 
+| 5 | Estilo simple - Laura Acosta, Victor Jhosef | [OnlineGDB](https://www.onlinegdb.com/HG90o6uJ5) | 
 | 6 | Creacion de una pagina web Basica - Blancas Chávez, Carlos Franco |[CodePen](https://codepen.io/CarlosBlancas969/pen/ogBzrOj)  | 
 | 7 | Recomendaciones y Errores comunes para principiantes - Flores Eusebio, Angel Thyago | [CodePen](https://codepen.io/editor/Angel-Flores-the-builder/pen/019ee253-d125-7dd7-95c7-641803102315) |
 

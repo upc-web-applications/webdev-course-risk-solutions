@@ -1,45 +1,30 @@
 /* Estilos para el cuerpo de la página */
 body{
     /* color de fondo */
-    background-color: blue;
     /* tipo de letra */
-    font-family: Arial;
 }
 
 /* Estilos para el título principal */
 h1 {
     /* color del texto */
-    color:red;
     /* tamaño de la letra */
-    font-size: 36px;
     /* alineación del texto */
-    text-align: center;
 }
 
 /* Estilos para los párrafos */
 p{
     /* color del texto */
-    color: green;
     /* tamaño de la letra */
-    font-size: 18px;
     /* alineación del texto */
-    text-align: center;
     /* espacio arriba del párrafo */
-    margin-top: 10px;
 }
 
 /* Estilos para la caja decorativa */
 .caja{
     /* color de fondo de la caja */
-    background-color: yellow;
     /* color del texto */
-    color: black;
     /* espacio interno */
-    padding: 20px;
     /* bordes redondeados */
-    border-radius: 12px;
     /* ancho de la caja */
-    width: 300px;
     /* centrar la caja */
-    margin: 20px auto;
 }
