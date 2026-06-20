@@ -148,7 +148,7 @@ Se desarrolla una proyecto web empleando HTML y CSS que permite:
 | 4 | Introducción a CSS - Laura Acosta, Victor Jhosef | [Replit](https://www.onlinegdb.com/voYJFjYCm) | 
 | 5 | Estilo simple - Laura Acosta, Victor Jhosef | | 
 | 6 | Creacion de una pagina web Basica - Blancas Chávez, Carlos Franco |[CodePen](https://codepen.io/CarlosBlancas969/pen/ogBzrOj)  | 
-| 7 | Recomendaciones y Errores comunes para principiantes - Flores Eusebio, Angel Thyago |  |
+| 7 | Recomendaciones y Errores comunes para principiantes - Flores Eusebio, Angel Thyago | [CodePen](https://codepen.io/editor/Angel-Flores-the-builder/pen/019ee253-d125-7dd7-95c7-641803102315) |
 
 ---
 
