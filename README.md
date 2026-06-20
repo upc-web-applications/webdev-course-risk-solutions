@@ -42,7 +42,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 * **Encargado:** Aponte Pablo, Isabel Luisa
 * **Descripción:** Aprende los conceptos básicos de HTML: etiquetas, elementos, atributos y la estructura fundamental de una página web.
-* **Enlace:** [Ver la lección](https://youtu.be/rm2RO2Qu0gM)
+* **Enlace:** [Ver Lección 2 en YouTube](https://youtu.be/rm2RO2Qu0gM)
 * * **Consejos clave:** Usar etiquetas correctamente, cerrar en orden y mantener una buena indentación.
 * **Proyecto Final:** [Crear una página HTML básica](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019ec893-190d-7172-a710-e631cbbca2bd) 
 * **Conclusiones:**
@@ -57,7 +57,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 * **Encargado:** Aponte Pablo, Isabel Luisa
 * **Descripción:** Aprende a usar los elementos HTML más comunes: encabezados, párrafos con formato, listas ordenadas y desordenadas, enlaces mejorados e imágenes con tamaño controlado.
-* **Enlace:** [Ver la lección](https://youtu.be/9AGt2lHKEZY)
+* **Enlace:** [Ver Lección 3 en YouTube](https://youtu.be/9AGt2lHKEZY)
 * **Consejos clave:** Usar `<ul>` cuando el orden no importa y `<ol>` cuando sí, combinar elementos mediante anidamiento y aplicar `target="_blank"` en enlaces externos.
 * **Proyecto Final:** [Crear una página con elementos HTML comunes](https://codepen.io/editor/Isabel-Aponte-Pablo/pen/019eca01-99a5-74e3-a165-a0512b7958f9)
 * **Conclusiones:**
@@ -71,7 +71,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 - **Encargado:** Laura Acosta, Victor Jhosef
 - **Descripción:** Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace:** [Ver la lección](https://youtu.be/L7Ol-ZVWvQc)
+- **Enlace:** [Ver Lección 4 en YouTube](https://youtu.be/L7Ol-ZVWvQc)
 - **Consejos clave:** Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Proyecto Final:** [Aplicar estilo con un clic](https://www.onlinegdb.com/voYJFjYCm) 
 - **Conclusiones:**
@@ -111,7 +111,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 - **Encargado:** Flores Eusebio, Angel Thyago
 - **Descripción:** En esta lección se presentan buenas prácticas y errores comunes al comenzar con HTML y CSS. Se explica la importancia de ordenar el código, usar nombres claros, cerrar correctamente las etiquetas y probar los cambios poco a poco en CodePen.
-- **Enlace:** [Ver Leccion 7 en Youtube](https://youtu.be/4WtAN-Gq0YQ)
+- **Enlace:** [Ver Lección 7 en YouTube](https://youtu.be/4WtAN-Gq0YQ)
 - **Consejos clave:** Es importante escribir código ordenado, usar nombres de clases claros y revisar los errores paso a paso. En HTML y CSS, practicar y corregir errores es parte del aprendizaje.
 - **Proyecto Final:** [Recomendaciones y errores comunes](https://codepen.io/editor/Angel-Flores-the-builder/pen/019ee253-d125-7dd7-95c7-641803102315)
 - **Conclusiones:**
@@ -123,7 +123,18 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 
 # Proyecto Final
 
-Se desarrolla una proyecto web empleando HTML y CSS que permite:
+Se desarrolla un proyecto web empleando HTML y CSS, orientado a la creación de una página web básica tipo perfil personal.
+
+Este proyecto permite aplicar los principales temas trabajados durante el curso:
+
+- Comprender qué es un sitio web y cómo se construye.
+- Utilizar una estructura HTML básica con etiquetas, elementos y atributos.
+- Agregar elementos comunes como encabezados, párrafos, listas, imágenes y enlaces.
+- Aplicar estilos con CSS mediante colores, fuentes, bordes, espaciado y centrado de contenido.
+- Organizar el contenido de forma clara y visualmente agradable.
+- Reconocer buenas prácticas y evitar errores comunes al escribir HTML y CSS.
+
+Al finalizar el proyecto, el estudiante habrá creado una página web sencilla, funcional y personalizada, utilizando únicamente herramientas en línea y sin necesidad de instalar programas adicionales.
 
 ---
 
