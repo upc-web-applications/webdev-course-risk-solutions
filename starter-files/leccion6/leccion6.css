@@ -1,0 +1,87 @@
+/* Reset de estilos por defecto */
+* {
+    /* margin */
+    /* padding */
+    /* box-sizing */
+}
+
+/* Estilos para el cuerpo de la página */
+body {
+    /* tipo de letra */
+    /* color de fondo */
+    /* color del texto */
+}
+
+/* Estilos para el encabezado */
+header {
+    /* color de fondo */
+    /* color del texto */
+    /* alineación del texto */
+    /* espacio interno */
+}
+
+/* Estilos para la imagen de perfil */
+header img {
+    /* bordes redondeados */
+    /* ancho */
+    /* alto */
+    /* borde */
+    /* margen inferior */
+}
+
+/* Estilos para el título en el encabezado */
+header h1 {
+    /* margen inferior */
+}
+
+/* Estilos para el párrafo en el encabezado */
+header p {
+    /* tamaño de letra */
+}
+
+/* Estilos para las secciones */
+section {
+    /* ancho máximo */
+    /* centrar */
+    /* color de fondo */
+    /* espacio interno */
+    /* bordes redondeados */
+    /* sombra */
+}
+
+/* Estilos para subtítulos */
+h2 {
+    /* color del texto */
+    /* margen inferior */
+}
+
+/* Estilos para listas */
+ul {
+    /* padding izquierdo */
+}
+
+/* Estilos para elementos de lista */
+li {
+    /* margen inferior */
+}
+
+/* Estilos para enlaces */
+a {
+    /* color del texto */
+    /* sin subrayado */
+}
+
+/* Estilos para enlaces al pasar el mouse */
+a:hover {
+    /* subrayado */
+}
+
+/* Estilos para el pie de página */
+footer {
+    /* alineación del texto */
+    /* espacio interno */
+    /* color de fondo */
+    /* color del texto */
+    /* margen superior */
+    /* tamaño de letra */
+}

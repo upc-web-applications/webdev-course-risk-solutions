@@ -18,7 +18,7 @@ El contenido de este curso esta diseñado para ser sencillo, interactivo y pract
 
 En este repositorio encontraras los codigos de ejemplo empleados durante la elaboracion de este curso.
 
-LINK: https://github.com/upc-web-applications/html-and-css-course.git
+LINK: https://github.com/upc-web-applications/webdev-course-risk-solutions.git
 
 ---
 
@@ -100,7 +100,7 @@ LINK: https://github.com/upc-web-applications/html-and-css-course.git
 - **Encargado:** Blancas Chávez, Carlos Franco
 - **Descripción:** En esta lección los estudiantes aprenderán a construir una página web de perfil personal completa desde cero, combinando todos los conceptos de HTML y CSS vistos en las lecciones anteriores. Usando CodePen como editor en línea, sin instalar nada, se construirá paso a paso una página con encabezado, foto de perfil, secciones de información, listas, enlaces y pie de página, aplicando estilos como colores, bordes redondeados, sombras y centrado de contenido
 - **Enlace:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=Zw9VS9ICY0g)
-- **Consejos clave:** [] 
+- **Consejos clave:** Usar etiquetas semánticas (`<header>`, `<section>`, `<footer>`), mantener un diseño limpio con espaciado consistente y personalizar colores y fuentes para dar identidad a la página.
 - **Proyecto Final:** [Ver pagina web](https://codepen.io/CarlosBlancas969/pen/ogBzrOj)
 - **Conclusiones:**
   - Al combinar HTML y CSS en un proyecto real, los estudiantes comprenden cómo cada elemento aprendido tiene un propósito concreto dentro de una página web funcional
@@ -176,7 +176,7 @@ Al finalizar el proyecto, el estudiante habrá creado una página web sencilla, 
 **Periodo:** 2026-01
 
 **Nombre del equipo:** RiskGuard Solutions<br/>
-**Lider del equipo:** [LIDER] <br/>
+**Lider del equipo:** Victor Jhosef Laura Acosta <br/>
 
 **Integrantes del equipo:**
 
@@ -185,9 +185,9 @@ Al finalizar el proyecto, el estudiante habrá creado una página web sencilla, 
 |  1  | Flores Eusebio, Angel Thyago      | U20231B781 |
 |  2  | Aponte Pablo, Isabel Luisa        | U20241E158 |
 |  3  | Blancas Chávez, Carlos Franco     | U20241A322 |
-|  4  | Laura Acosta, Victor Jhosuef      | U202418655 |
+|  4  | Laura Acosta, Victor Jhosef      | U202418655 |
 
-**Fecha de entrega:** [FECHA]
+**Fecha de entrega:** 20/06/2026
 
 **¡Gracias por completar el curso!** 
 
