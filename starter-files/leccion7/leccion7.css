@@ -1,0 +1,100 @@
+/*
+  Lección 7: Recomendaciones y errores comunes
+
+  Este archivo contiene estilos iniciales.
+  El estudiante puede modificar colores, bordes, espacios y tamaños.
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f6ff;
+  margin: 0;
+  padding: 30px;
+  color: #222;
+}
+
+/*
+  Contenedor principal de la página.
+*/
+.contenedor {
+  max-width: 900px;
+  margin: auto;
+  background-color: white;
+  padding: 30px;
+
+  /* TODO: Cambia el redondeado del contenedor */
+  border-radius: 18px;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/*
+  Encabezado principal.
+*/
+.encabezado {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  /* TODO: Cambia el color del título principal */
+  color: #1e3a8a;
+  font-size: 36px;
+}
+
+h2 {
+  color: #2563eb;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.seccion {
+  margin-top: 25px;
+}
+
+/*
+  Tarjeta base.
+  Todas las recomendaciones y errores usan esta clase.
+*/
+.tarjeta {
+  background-color: #f8fafc;
+  padding: 18px;
+  margin: 15px 0;
+  border-radius: 12px;
+  border-left: 6px solid #2563eb;
+}
+
+/*
+  Tarjetas de buenas prácticas.
+*/
+.correcta {
+  /* TODO: Cambia el color del borde de las buenas prácticas */
+  border-left-color: #22c55e;
+}
+
+/*
+  Tarjetas de errores comunes.
+*/
+.error {
+  /* TODO: Cambia el color del borde de los errores */
+  border-left-color: #ef4444;
+}
+
+.tarjeta h3 {
+  margin-top: 0;
+  color: #111827;
+}
+
+/*
+  Lista final de revisión.
+*/
+.checklist {
+  background-color: #eef2ff;
+  padding: 20px 20px 20px 40px;
+  border-radius: 12px;
+  line-height: 1.8;
+}
