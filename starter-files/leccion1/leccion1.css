@@ -1,0 +1,22 @@
+/*
+  Lección 1: Introducción al desarrollo web
+
+  Este archivo contiene los estilos iniciales de la página.
+*/
+
+/* 
+  Estilo del título dentro de la tarjeta.
+*/
+.h1 {
+  /* TODO: Cambia el color del título */
+  color: #2b5cff;
+}
+
+/* 
+  Estilo del párrafo dentro de la tarjeta.
+*/
+.p {
+  color: #333333;
+}
+
+
